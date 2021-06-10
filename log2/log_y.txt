@@ -1,0 +1,30 @@
+Sent. Source Node = y; Sequence Number = 1-1
+DestNode = x; Distance = 4.0
+DestNode = z; Distance = 1.0
+
+Received. Source Node = y; Sequence Number = 1
+DestNode = y; Distance = 4.0; Neighbor = x
+DestNode = z; Distance = 50.0; Neighbor = x
+DestNode = x; Distance = 50.0; Neighbor = z
+DestNode = y; Distance = 1.0; Neighbor = z
+
+Sent. Source Node = y; Sequence Number = 2-1
+DestNode = x; Distance = 4.0
+DestNode = z; Distance = 1.0
+
+Received. Source Node = y; Sequence Number = 2
+DestNode = y; Distance = 4.0; Neighbor = x
+DestNode = z; Distance = 5.0; Neighbor = x
+DestNode = x; Distance = 5.0; Neighbor = z
+DestNode = y; Distance = 1.0; Neighbor = z
+
+Sent. Source Node = y; Sequence Number = 3-1
+DestNode = x; Distance = 4.0
+DestNode = z; Distance = 1.0
+
+Received. Source Node = y; Sequence Number = 3
+DestNode = y; Distance = 4.0; Neighbor = x
+DestNode = z; Distance = 5.0; Neighbor = x
+DestNode = x; Distance = 5.0; Neighbor = z
+DestNode = y; Distance = 1.0; Neighbor = z
+

@@ -1,0 +1,498 @@
+Sent. Source Node = u; Sequence Number = 1-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 5.0
+DestNode = x; Distance = 1.0
+
+Received. Source Node = u; Sequence Number = 1
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = u; Distance = 5.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 3.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 5.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 3.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 2-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 4.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 10.0
+
+Received. Source Node = u; Sequence Number = 2
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 8.0; Neighbor = v
+DestNode = u; Distance = 4.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 3.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 3-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 4.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 8.0
+
+Received. Source Node = u; Sequence Number = 3
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 6.0; Neighbor = v
+DestNode = u; Distance = 4.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 4-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 4
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 4.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 5-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 5
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 6-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 6
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 7-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 7
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 8-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 8
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 9-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 9
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 10-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 10
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 11-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 11
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 12-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 12
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 13-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 13
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 14-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 14
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 15-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 15
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 16-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 16
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 17-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 17
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 18-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 18
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 19-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 19
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 20-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 20
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
+Sent. Source Node = u; Sequence Number = 21-1
+DestNode = v; Distance = 2.0
+DestNode = w; Distance = 3.0
+DestNode = x; Distance = 1.0
+DestNode = y; Distance = 2.0
+DestNode = z; Distance = 4.0
+
+Received. Source Node = u; Sequence Number = 21
+DestNode = u; Distance = 2.0; Neighbor = v
+DestNode = w; Distance = 3.0; Neighbor = v
+DestNode = x; Distance = 2.0; Neighbor = v
+DestNode = y; Distance = 3.0; Neighbor = v
+DestNode = z; Distance = 5.0; Neighbor = v
+DestNode = u; Distance = 3.0; Neighbor = w
+DestNode = v; Distance = 3.0; Neighbor = w
+DestNode = x; Distance = 2.0; Neighbor = w
+DestNode = y; Distance = 1.0; Neighbor = w
+DestNode = z; Distance = 3.0; Neighbor = w
+DestNode = u; Distance = 1.0; Neighbor = x
+DestNode = v; Distance = 2.0; Neighbor = x
+DestNode = w; Distance = 2.0; Neighbor = x
+DestNode = y; Distance = 1.0; Neighbor = x
+DestNode = z; Distance = 3.0; Neighbor = x
+
